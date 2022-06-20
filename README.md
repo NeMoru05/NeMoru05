@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NeMoru05
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @SleepyMoru
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on Somework
 
 <!---
